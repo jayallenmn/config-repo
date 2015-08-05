@@ -1,0 +1,4 @@
+configrepos:
+  uri: https://github.com/jayallenmn/config-repo.git
+  refresh: true
+  delay: 5000
